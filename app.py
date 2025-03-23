@@ -21,13 +21,13 @@ else:
     st.warning("Share the difficulties you faced, when getting started!")
 
 #relexing
-st.header("Think about what you'hv learned")
+st.header("🧠Think about what you'hv learned")
 reflection= st.text_area("Share your thougths here:")
 
 if reflection:
-    st.success(f"🧠Valuable perspective: your thoughts:{reflection}")
+    st.success(f"Valuable perspective: your thoughts:{reflection}")
 else:
-    st.info("Lookin back on past experience helps you grow! Tell about your Challenges")
+    st.info("Looking back on past experience helps you grow! Tell about your Challenges")
 
 #achievements
 st.header("🏆Acknowledge your achievements")  
