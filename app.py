@@ -1,8 +1,8 @@
 #streamlit
 import streamlit as st
 
-st.set_page_config(page_title="growth mindset project", project_icon="🍀")
-st.title("Growth Mindset Challenge: Web App with Sreamlit")
+st.set_page_config(page_title= "growth mindset project", page_icon="🍀")
+st.title("Welcome to My Growth Mindset Challenge!")
 
 st.header("✨Embrace your Journey of Growth!")
 st.write("Growth, at its core, signifies an increase or expansion in size, complexity, or development, encompassing both physical and metaphorical advancements. It's a process of becoming larger, stronger, or more mature, whether it's a plant reaching for the sun or a person pursuing their potential. ")
